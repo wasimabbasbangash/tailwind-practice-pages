@@ -1,0 +1,3 @@
+.parent:hover .border-color-on-hover {
+  border-color: red solid 2px;
+}
