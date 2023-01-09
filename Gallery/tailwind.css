@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer component {
+  .card {
+    @apply bg-white text-grey-600 w-72 min-h-[10rem] shadow-lg rounded-lg overflow-hidden;
+  }
+} */
